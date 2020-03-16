@@ -31,10 +31,10 @@ share:
   fb_appid: 1749788565247320
 
 urls:
-    - text: about me
-      url: /about/
-    - text: my projects
-      url: /projects/
+    - text: acerca de mí
+      url: /acercade/
+    - text: mis proyectos
+      url: /proyectos/
     - text: xml feed
       url: /feed.xml
 
