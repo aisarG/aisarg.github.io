@@ -1,8 +1,8 @@
-title: Las notas de Aisar
-description: Hablando un poco de emprendimiento digital y desarrollo de software.
-author: Aisar Gatrif
+title: las notas de aisar
+description: hablando un poco de emprendimiento digital y desarrollo de software.
+author: aisar gatrif
 github: https://github.com/aisarg
-about: Soy un emprendedor, cofundador de Agaart Studios y Slatam Group.
+about: soy un emprendedor, cofundador de agaart studios y slatam group.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 
@@ -31,11 +31,11 @@ share:
   fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
+    - text: about me
       url: /about/
-    - text: My Projects
+    - text: my projects
       url: /projects/
-    - text: XML Feed
+    - text: xml feed
       url: /feed.xml
 
 url: "https://aisarg.github.io"
